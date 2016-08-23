@@ -10,6 +10,8 @@ public class C1 {
 	private String address;
 	private Double b;
 
+//	a
+
 	// default constructor
 	public C1() {
 
