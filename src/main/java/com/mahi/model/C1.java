@@ -11,6 +11,7 @@ public class C1 {
 	private Double b;
 
 //	a
+//	b
 
 	// default constructor
 	public C1() {
