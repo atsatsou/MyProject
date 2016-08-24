@@ -8,7 +8,7 @@ public class C1 {
 	private String name;
 	private String telephone;
 	private String address;
-	private Double b;
+
 
 
 
